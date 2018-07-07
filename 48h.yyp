@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "051c0ecc-e280-455f-acc9-56660d3629a4",
+            "Value": {
+                "id": "4a2a2bcf-9ced-451e-9d6f-f50888e46ef8",
+                "resourcePath": "rooms\\room_start\\room_start.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "066305a4-49b8-44fa-9a09-9cf41661c606",
             "Value": {
                 "id": "60ff8326-7ee5-4b81-aea9-79d425e9e426",
@@ -215,6 +223,14 @@
             }
         },
         {
+            "Key": "a04cb678-107c-4d45-b5ac-a91f7126b485",
+            "Value": {
+                "id": "e0dfb4dd-60b0-4015-9cd9-3fd893571bad",
+                "resourcePath": "views\\a04cb678-107c-4d45-b5ac-a91f7126b485.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "a0a31176-9ecf-4dac-b131-ace731e21d8b",
             "Value": {
                 "id": "65ce5a55-f6de-4136-b32d-f6efe88e408a",
@@ -348,6 +364,22 @@
                 "id": "28c59ff5-203f-4b5e-8328-a64a8bdb1095",
                 "resourcePath": "sprites\\spr_mouse_trap\\spr_mouse_trap.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ee68a69d-d8cc-4303-bdec-fc896a9d49c8",
+            "Value": {
+                "id": "4c5ef7de-ca68-46f1-ba22-189149a12f88",
+                "resourcePath": "objects\\oTitlePlayer\\oTitlePlayer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f1c44226-692d-42e1-97c4-4236cd9ca600",
+            "Value": {
+                "id": "c3497e89-4c63-48ca-8620-f80fee553616",
+                "resourcePath": "objects\\oGameTitle\\oGameTitle.yy",
+                "resourceType": "GMObject"
             }
         },
         {
