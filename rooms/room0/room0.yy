@@ -127,11 +127,12 @@
             "mvc": "1.0",
             "tiles": {
                 "SerialiseData": null,
-                "SerialiseHeight": 2,
-                "SerialiseWidth": 15,
+                "SerialiseHeight": 3,
+                "SerialiseWidth": 17,
                 "TileSerialiseData": [
-                    1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
-                    1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+                    1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+                    1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+                    1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
                 ]
             },
             "tilesetId": "264aa27a-0d92-46c0-b19e-81c7fbfaa025",
