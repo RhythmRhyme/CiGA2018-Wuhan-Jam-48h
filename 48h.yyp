@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "17c6a2b9-dc1b-4aac-9ded-383f0532211d",
+            "Value": {
+                "id": "a83c994e-caa8-418d-a2be-b1512cbfe324",
+                "resourcePath": "scripts\\camera_state_fllow\\camera_state_fllow.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "1beb2132-8fca-4958-8ecd-c3935a98eae0",
             "Value": {
                 "id": "e667efac-36df-41bf-b299-f12eecd349ac",
@@ -76,6 +84,14 @@
                 "id": "f1e329ef-18d9-4626-ae49-633e68303867",
                 "resourcePath": "views\\23f1f386-326a-474a-a804-f5c722cf8950.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2580dd91-132d-46ec-abd9-fd5f5c98b2d6",
+            "Value": {
+                "id": "9749c326-b61a-4014-8533-8b6c156e75db",
+                "resourcePath": "objects\\Camear\\Camear.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -300,7 +316,8 @@
         "07cae7f2-3c13-4093-a129-52cd9b32596d",
         "066305a4-49b8-44fa-9a09-9cf41661c606",
         "eb3c18ad-01e9-4aae-ad7e-cdae8b324985",
-        "f629e822-ffa9-4079-a23d-29171bcd2cd1"
+        "f629e822-ffa9-4079-a23d-29171bcd2cd1",
+        "17c6a2b9-dc1b-4aac-9ded-383f0532211d"
     ],
     "tutorial": ""
 }
