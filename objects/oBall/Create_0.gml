@@ -22,3 +22,8 @@
 
 image_xscale = 2;
 image_yscale = 2;
+
+// 目标长度
+origin_x = x;
+move_x = 0;
+target_length = 20 * 1000;

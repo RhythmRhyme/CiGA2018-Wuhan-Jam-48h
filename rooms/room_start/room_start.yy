@@ -61,10 +61,9 @@
             "mvc": "1.0",
             "tiles": {
                 "SerialiseData": null,
-                "SerialiseHeight": 3,
+                "SerialiseHeight": 2,
                 "SerialiseWidth": 8,
                 "TileSerialiseData": [
-                    1,1,1,1,1,1,1,1,
                     1,1,1,1,1,1,1,1,
                     1,1,1,1,1,1,1,1
                 ]

@@ -19,3 +19,8 @@ if(vX >= roomWidth){
 		x-=roomWidth;
 	}
 }
+
+// Check End Room
+if (move_x >= target_length) {
+	game_restart();
+}

@@ -10,3 +10,5 @@ if (keyboard_check_pressed(vk_space)) {
 
 //右移动
 hspeed = clamp(hspeed + 0.5, -15, 15);
+
+move_x += hspeed;
