@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "542612a0-0408-4e46-bc42-c47bdaa7cfc5",
+            "Value": {
+                "id": "6984f8c0-651c-484c-9cd3-ca2cb634c77b",
+                "resourcePath": "datafiles_yy\\04B_03__.TTF.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "79de5a7c-7d8c-4a5a-a2ec-2c7bcae89d73",
             "Value": {
                 "id": "957e130c-58a3-4509-974b-e32e2298f902",

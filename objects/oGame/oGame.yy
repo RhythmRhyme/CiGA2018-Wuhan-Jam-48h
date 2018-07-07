@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "oGame",
     "eventList": [
-        
+        {
+            "id": "51c801a5-2c9a-4564-8ec3-b266d2687a4c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "def35b96-1e6c-41d1-881f-3cba45840787"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

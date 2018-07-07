@@ -27,6 +27,6 @@
     // Produce collision response
     move_outside_solid(n, speed);
     direction = point_direction(0, 0, rx, ry);
-    speed *= 0.7;
+    speed *= 0.65;
 }
 
