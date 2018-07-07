@@ -10,8 +10,10 @@ if(vX > roomWidth){
 	//过半
 	with(oCollider){
 		x-=roomWidth;
-		instance_create(x+oCollider.sprite_width,y,oCollider);
-		show_debug_message("instance_create oCollider");
+		if(x >=0 ){	//最后一个collider
+			instance_create(x+oCollider.sprite_width,y,oCollider);
+			show_debug_message("instance_create oCollider");
+		}
 	}
 	with(oBall){
 		x-=roomWidth;
