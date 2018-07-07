@@ -1,6 +1,8 @@
 {
     gravity = 0.2;
     friction = 0.01;
+	direction = 0;
+	speed = 10;
     
     time = 0;
     cx = 0;
