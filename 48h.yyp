@@ -111,6 +111,22 @@
             }
         },
         {
+            "Key": "264aa27a-0d92-46c0-b19e-81c7fbfaa025",
+            "Value": {
+                "id": "bac2cfca-9ad7-4f53-96a1-f633faa859e4",
+                "resourcePath": "tilesets\\tileBG\\tileBG.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "292e6dd8-0786-4607-9eb5-2a9b40a507fc",
+            "Value": {
+                "id": "1a87f68b-7174-4a93-9713-89176356aa9a",
+                "resourcePath": "sprites\\sprBGtile\\sprBGtile.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2ede9dce-f036-4dad-932d-8838b2f0964f",
             "Value": {
                 "id": "e5351a3a-9cb4-44d0-85fc-4da5b9755cb4",
