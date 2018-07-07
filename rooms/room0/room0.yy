@@ -56,7 +56,7 @@
             "inheritVisibility": false,
             "instances": [
 {"name": "inst_E9DF79DA","id": "21472e96-d9c8-4d6c-b703-65e60bbf5150","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_E9DF79DA","objId": "260b5d61-3ad9-4e9e-9c08-04aaad1a8dbf","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 0,"y": 0},
-{"name": "inst_15986443","id": "e549005f-01fe-4ddf-8573-031f75dc649d","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_15986443","objId": "260b5d61-3ad9-4e9e-9c08-04aaad1a8dbf","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 1440,"y": 0}
+{"name": "inst_15986443","id": "e549005f-01fe-4ddf-8573-031f75dc649d","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_15986443","objId": "260b5d61-3ad9-4e9e-9c08-04aaad1a8dbf","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 1000,"y": 0}
             ],
             "layers": [
 
@@ -122,8 +122,8 @@
             "m_parentID": "00000000-0000-0000-0000-000000000000",
             "m_serialiseFrozen": false,
             "modelName": "GMRTileLayer",
-            "prev_tileheight": 270,
-            "prev_tilewidth": 135,
+            "prev_tileheight": 240,
+            "prev_tilewidth": 120,
             "mvc": "1.0",
             "tiles": {
                 "SerialiseData": null,

@@ -56,17 +56,17 @@
             "m_parentID": "00000000-0000-0000-0000-000000000000",
             "m_serialiseFrozen": false,
             "modelName": "GMRTileLayer",
-            "prev_tileheight": 270,
-            "prev_tilewidth": 135,
+            "prev_tileheight": 240,
+            "prev_tilewidth": 120,
             "mvc": "1.0",
             "tiles": {
                 "SerialiseData": null,
                 "SerialiseHeight": 3,
                 "SerialiseWidth": 9,
                 "TileSerialiseData": [
-                    1,1,1,1,1,1,1,1,2147483648,
-                    1,1,1,1,1,1,1,1,2147483648,
-                    2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648
+                    1,1,1,1,1,1,1,1,1,
+                    1,1,1,1,1,1,1,1,1,
+                    1,1,1,1,1,1,1,1,1
                 ]
             },
             "tilesetId": "264aa27a-0d92-46c0-b19e-81c7fbfaa025",

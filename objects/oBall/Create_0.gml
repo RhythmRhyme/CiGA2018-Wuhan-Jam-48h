@@ -20,11 +20,10 @@
 //view_angle_speed = 0.1; 
 //camera_angle();
 
-image_xscale = 2;
-image_yscale = 2;
+set_image_scale();
 
 // 目标长度
 origin_x = x;
 move_x = 0;
-target_length = 1 * 1000;
+target_length = 15 * 1000;
 room_change_obj = noone;
