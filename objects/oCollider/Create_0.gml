@@ -1,0 +1,1 @@
+sprite_index = choose(sprCollider0,sprCollider1,sprCollider2,sprCollider3,sprCollider4,sprCollider5,sprCollider6);

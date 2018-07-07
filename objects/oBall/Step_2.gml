@@ -8,7 +8,6 @@ var vY = camera_get_view_y(view_camera[0]);
 
 if(vX >= roomWidth){
 	//过半
-	camera_set_view_pos(view_camera[0],vX-roomWidth,vY);
 	with(oCollider){
 		x-=roomWidth;
 		if(x >=0 ){	//最后一个collider

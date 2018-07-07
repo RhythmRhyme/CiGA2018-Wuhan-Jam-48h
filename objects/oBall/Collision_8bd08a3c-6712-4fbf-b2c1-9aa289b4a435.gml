@@ -11,6 +11,7 @@
     // Find surface normal
     var n = collision_normal(cx, cy, oCollider, 63.5, 1);
     if (n == -1) show_debug_message("ERROR: "+string(time)+"  "+string(direction));
+	
     nx = lengthdir_x(1, n);
     ny = lengthdir_y(1, n);
     
@@ -26,6 +27,6 @@
     // Produce collision response
     move_outside_solid(n, speed);
     direction = point_direction(0, 0, rx, ry);
-    speed *= 0.996;
+    speed *= 0.7;
 }
 
