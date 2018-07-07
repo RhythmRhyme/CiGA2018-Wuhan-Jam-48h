@@ -19,3 +19,6 @@
 //view_angle = -30*gravity;
 //view_angle_speed = 0.1; 
 //camera_angle();
+
+image_xscale = 2;
+image_yscale = 2;
