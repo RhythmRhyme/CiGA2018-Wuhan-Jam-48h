@@ -154,11 +154,19 @@
         "modelName": "GMRoomSettings",
         "persistent": false,
         "mvc": "1.0",
+<<<<<<< HEAD
         "Width": 10240
     },
     "mvc": "1.0",
     "views": [
 {"id": "1db8e25a-72f6-41f3-9b6d-63b6965905c8","hborder": 32,"hport": 540,"hspeed": -1,"hview": 540,"inherit": false,"modelName": "GMRView","objId": "d6e41963-c0b3-4d42-8245-1c19a761f197","mvc": "1.0","vborder": 32,"visible": false,"vspeed": -1,"wport": 960,"wview": 960,"xport": 0,"xview": 0,"yport": 0,"yview": 0},
+=======
+        "Width": 2048
+    },
+    "mvc": "1.0",
+    "views": [
+{"id": "1db8e25a-72f6-41f3-9b6d-63b6965905c8","hborder": 999,"hport": 768,"hspeed": -1,"hview": 768,"inherit": false,"modelName": "GMRView","objId": "d6e41963-c0b3-4d42-8245-1c19a761f197","mvc": "1.0","vborder": 999,"visible": true,"vspeed": -1,"wport": 1024,"wview": 1024,"xport": 0,"xview": 0,"yport": 0,"yview": 0},
+>>>>>>> ef46ce930b82aa488dcaa6f9de332c9e52248883
 {"id": "7641d7b7-4f72-44d0-9f59-0b4666b5099d","hborder": 32,"hport": 768,"hspeed": -1,"hview": 768,"inherit": false,"modelName": "GMRView","objId": "00000000-0000-0000-0000-000000000000","mvc": "1.0","vborder": 32,"visible": false,"vspeed": -1,"wport": 1024,"wview": 1024,"xport": 0,"xview": 0,"yport": 0,"yview": 0},
 {"id": "4420878c-eae5-4bad-840d-3c2bcb5324c4","hborder": 32,"hport": 768,"hspeed": -1,"hview": 768,"inherit": false,"modelName": "GMRView","objId": "00000000-0000-0000-0000-000000000000","mvc": "1.0","vborder": 32,"visible": false,"vspeed": -1,"wport": 1024,"wview": 1024,"xport": 0,"xview": 0,"yport": 0,"yview": 0},
 {"id": "691e1d03-79de-4edb-b4a5-3ccff8419a1c","hborder": 32,"hport": 768,"hspeed": -1,"hview": 768,"inherit": false,"modelName": "GMRView","objId": "00000000-0000-0000-0000-000000000000","mvc": "1.0","vborder": 32,"visible": false,"vspeed": -1,"wport": 1024,"wview": 1024,"xport": 0,"xview": 0,"yport": 0,"yview": 0},
@@ -170,8 +178,8 @@
     "viewSettings":     {
         "id": "293b3a9f-420a-4126-9109-cf0e5e82bed5",
         "clearDisplayBuffer": true,
-        "clearViewBackground": true,
-        "enableViews": false,
+        "clearViewBackground": false,
+        "enableViews": true,
         "inheritViewSettings": false,
         "modelName": "GMRoomViewSettings",
         "mvc": "1.0"
