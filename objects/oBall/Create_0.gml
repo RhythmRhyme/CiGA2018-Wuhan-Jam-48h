@@ -16,6 +16,6 @@
 }
 
 //镜头
-view_angle = -30*gravity;
-view_angle_speed = 0.1; 
-camera_angle();
+//view_angle = -30*gravity;
+//view_angle_speed = 0.1; 
+//camera_angle();
