@@ -42,7 +42,7 @@
             "Key": "0448d7fb-4f96-4b3f-92db-6ba7eeddb27d",
             "Value": {
                 "id": "ca3f5d1f-56e5-45e4-9a2d-aaeea6be7830",
-                "resourcePath": "sprites\\sprCollider3\\sprCollider3.yy",
+                "resourcePath": "sprites\\sprColliderTopTinyHole\\sprColliderTopTinyHole.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -90,7 +90,7 @@
             "Key": "163dca8d-161d-4831-a8ec-07dd8323c956",
             "Value": {
                 "id": "6f4f2162-5bd1-4ff7-88a5-2e4ca5ef0968",
-                "resourcePath": "sprites\\sprCollider1\\sprCollider1.yy",
+                "resourcePath": "sprites\\sprColliderFullGlass\\sprColliderFullGlass.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -202,7 +202,7 @@
             "Key": "79de5a7c-7d8c-4a5a-a2ec-2c7bcae89d73",
             "Value": {
                 "id": "957e130c-58a3-4509-974b-e32e2298f902",
-                "resourcePath": "sprites\\sprCollider5\\sprCollider5.yy",
+                "resourcePath": "sprites\\sprColliderBottomBigHole\\sprColliderBottomBigHole.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -210,7 +210,7 @@
             "Key": "7aec0106-fb95-4df9-87d3-bbe1fb65d993",
             "Value": {
                 "id": "91b33adb-965d-455f-9b5b-af2169b57de5",
-                "resourcePath": "sprites\\sprCollider4\\sprCollider4.yy",
+                "resourcePath": "sprites\\sprColliderButtomTinyHole\\sprColliderButtomTinyHole.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -250,7 +250,7 @@
             "Key": "8f8f302e-45c8-42b6-8855-808f90346c1e",
             "Value": {
                 "id": "67cacebd-491a-4e63-8e23-8a4354b66e2f",
-                "resourcePath": "sprites\\sprCollider2\\sprCollider2.yy",
+                "resourcePath": "sprites\\sprColliderTopBigHole\\sprColliderTopBigHole.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -522,7 +522,7 @@
             "Key": "fa860d49-dac2-4c5b-a0be-58ce358ce238",
             "Value": {
                 "id": "8427bd3c-f672-40b0-a3e7-898aff3c5cc0",
-                "resourcePath": "sprites\\sprCollider6\\sprCollider6.yy",
+                "resourcePath": "sprites\\sprColliderNoGlass\\sprColliderNoGlass.yy",
                 "resourceType": "GMSprite"
             }
         }

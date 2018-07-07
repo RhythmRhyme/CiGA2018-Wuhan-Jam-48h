@@ -19,3 +19,4 @@ if (move_x < target_length) {
 	}
 	instance_deactivate_object(self);
 }
+

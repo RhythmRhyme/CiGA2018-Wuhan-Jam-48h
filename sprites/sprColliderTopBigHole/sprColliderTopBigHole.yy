@@ -2,7 +2,7 @@
     "id": "8f8f302e-45c8-42b6-8855-808f90346c1e",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprCollider2",
+    "name": "sprColliderTopBigHole",
     "For3D": false,
     "HTile": false,
     "VTile": false,
