@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "253f8500-7a53-41b5-9cbb-e4c6c702356c",
+            "Value": {
+                "id": "8f332cec-ebdc-4110-93f6-0a82f7d3c623",
+                "resourcePath": "objects\\oRoomChange\\oRoomChange.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "260b5d61-3ad9-4e9e-9c08-04aaad1a8dbf",
             "Value": {
                 "id": "831f8416-cc5e-40f7-8230-8b9608446ff5",

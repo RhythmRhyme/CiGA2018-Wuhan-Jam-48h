@@ -4,7 +4,8 @@
     "mvc": "1.1",
     "name": "f00dc8f7-4f74-4acd-b8ad-c2467501601f",
     "children": [
-        "8485fc80-21ce-4c86-87dc-4f6055e44833"
+        "8485fc80-21ce-4c86-87dc-4f6055e44833",
+        "253f8500-7a53-41b5-9cbb-e4c6c702356c"
     ],
     "filterType": "GMObject",
     "folderName": "Game Process",
