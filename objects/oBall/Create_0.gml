@@ -1,5 +1,5 @@
 {
-    gravity = 0.2;
+    gravity = 0.05;
     friction = 0.01;
 	direction = 0;
 	speed = 10;
