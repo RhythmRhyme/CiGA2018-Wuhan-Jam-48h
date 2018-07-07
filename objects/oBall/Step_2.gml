@@ -28,10 +28,10 @@ if(vX >= roomWidth){
 var n = collision_normal(x, y, oCollider_front, 63.5, 1);
 if (n != -1){
 	with(oCollider_front){
-		image_alpha = clamp(image_alpha-0.05,0.5,1);
+		image_alpha = clamp(image_alpha-0.05,0.7,1);
 	}
 }else{
 	with(oCollider_front){
-		image_alpha = clamp(image_alpha+0.05,0.5,1);
+		image_alpha = clamp(image_alpha+0.05,0.7,1);
 	}
 }
