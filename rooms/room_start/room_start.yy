@@ -62,11 +62,11 @@
             "tiles": {
                 "SerialiseData": null,
                 "SerialiseHeight": 3,
-                "SerialiseWidth": 9,
+                "SerialiseWidth": 8,
                 "TileSerialiseData": [
-                    1,1,1,1,1,1,1,1,1,
-                    1,1,1,1,1,1,1,1,1,
-                    1,1,1,1,1,1,1,1,1
+                    1,1,1,1,1,1,1,1,
+                    1,1,1,1,1,1,1,1,
+                    1,1,1,1,1,1,1,1
                 ]
             },
             "tilesetId": "264aa27a-0d92-46c0-b19e-81c7fbfaa025",
@@ -130,7 +130,7 @@
         "modelName": "GMRoomSettings",
         "persistent": false,
         "mvc": "1.0",
-        "Width": 1024
+        "Width": 960
     },
     "mvc": "1.0",
     "views": [
