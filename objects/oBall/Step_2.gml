@@ -14,16 +14,27 @@ if(vX >= roomWidth){
 		bg_front.x-=roomWidth;
 		x-=roomWidth;
 		if(x >=0 ){	//最后一个collider
-			var quene = ds_list_find_index(global.levels, global.levels_index);
+			var quene = ds_list_find_value(global.levels, global.levels_index);
 			var map = ds_queue_dequeue(quene);
 			
 			instance_create(x+sprite_get_width(sprCollider0) * 2,y, map);
+			
+			//var items = ds_list_find_value(global.item_levels, global.levels_index);
+			//var item = ds_queue_dequeue(items);
+			//if (item && other.item_created) {
+			//	instance_create(x+sprite_get_width(sprCollider0) * 2, vY /2 , item);
+			//	other.item_created = false;
+			//	other.alarm[0] = room_speed /4;
+			//}
 
 			show_debug_message("instance_create oCollider");
 			show_debug_message(map);
 		}
 	}
 	with(oBall){
+		x-=roomWidth;
+	}
+	with(obj_firework) {
 		x-=roomWidth;
 	}
 }

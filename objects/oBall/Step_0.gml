@@ -13,6 +13,23 @@ if (move_x < target_length) {
 	hspeed = clamp(hspeed + 0.5, -15, 15);
 
 	move_x += hspeed;
+	
+	// level_1_item
+	switch (global.levels_index) {
+		case 1:
+			if (move_x > target_length / 4) {
+				var items = ds_list_find_value(global.item_levels, global.levels_index);
+				var item = ds_queue_dequeue(items);
+				if (item) {
+					instance_create(x + sprite_get_width(sprCollider0) * 2, y, item)
+				}
+			}
+			break;
+		case 2:
+			break;
+		case 3:
+			break;
+	}
 } else {
 	if (!room_change_obj) {
 		room_change_obj = instance_create_depth(x, y, -10, oRoomChange);

@@ -287,6 +287,14 @@
             }
         },
         {
+            "Key": "55cf3eac-ebcd-4ceb-93fb-c70cbef8fa0d",
+            "Value": {
+                "id": "b9f7bee9-72c8-40df-af2d-a01bc3b04b7a",
+                "resourcePath": "views\\55cf3eac-ebcd-4ceb-93fb-c70cbef8fa0d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "594f28f6-0cf3-411c-8993-a21abc76eb77",
             "Value": {
                 "id": "d7c7acb7-73eb-4376-b81a-5f03ac235a7f",
@@ -323,6 +331,14 @@
             "Value": {
                 "id": "e9e7d6c6-ea9a-45a9-899b-c0070e7e2ca7",
                 "resourcePath": "objects\\oColliderTopBigHole_glass\\oColliderTopBigHole_glass.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "770c642c-3f10-46fa-a658-1c14ce6f046c",
+            "Value": {
+                "id": "5eba730e-5d10-4982-8e6b-9065565ab0e0",
+                "resourcePath": "objects\\obj_firework\\obj_firework.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -459,6 +475,14 @@
             "Value": {
                 "id": "6ef66f76-ed22-4067-bfb6-05f95ab84aa9",
                 "resourcePath": "objects\\oColliderButtomTinyHole\\oColliderButtomTinyHole.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a6410ed1-f732-48b6-af15-962f68d6dca2",
+            "Value": {
+                "id": "7f7e3f48-a151-4f8f-9478-e53315731307",
+                "resourcePath": "objects\\obj_mouse_trap\\obj_mouse_trap.yy",
                 "resourceType": "GMObject"
             }
         },

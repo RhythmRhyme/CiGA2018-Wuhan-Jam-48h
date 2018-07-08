@@ -30,3 +30,4 @@ target_length = 21 * 1000;
 room_change_obj = noone;
 
 // 难度设置
+item_created = true;
