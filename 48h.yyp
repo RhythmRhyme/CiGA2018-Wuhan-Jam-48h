@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "0431bfda-5510-4ef9-8cfa-9195b1c75592",
+            "Value": {
+                "id": "2b4d2062-1fbd-4ac9-8c58-ebf7cf0efb75",
+                "resourcePath": "sprites\\sprBall_collision\\sprBall_collision.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0448d7fb-4f96-4b3f-92db-6ba7eeddb27d",
             "Value": {
                 "id": "ca3f5d1f-56e5-45e4-9a2d-aaeea6be7830",
