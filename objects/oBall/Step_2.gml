@@ -28,8 +28,12 @@ if(vX >= roomWidth){
 			//}
 
 			show_debug_message("instance_create oCollider");
-			show_debug_message(map);
 		}
+	}
+	var items = ds_list_find_value(global.item_levels, global.levels_index);
+	var item = ds_queue_dequeue(items);
+	if (item) {
+		instance_create(x+sprite_get_width(sprCollider0), random_range(camera_get_view_height(view_camera[0])/2 - 100, camera_get_view_height(view_camera[0])/2) + 100, item);
 	}
 	with(oBall){
 		x-=roomWidth;
