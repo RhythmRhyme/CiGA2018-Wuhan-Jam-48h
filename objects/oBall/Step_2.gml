@@ -28,8 +28,12 @@ if(vX >= roomWidth){
 			//}
 
 			show_debug_message("instance_create oCollider");
-			show_debug_message(map);
 		}
+	}
+	var items = ds_list_find_value(global.item_levels, global.levels_index);
+	var item = ds_queue_dequeue(items);
+	if (item) {
+		instance_create(x, y, item);
 	}
 	with(oBall){
 		x-=roomWidth;

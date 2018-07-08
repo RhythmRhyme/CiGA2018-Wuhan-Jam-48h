@@ -2,7 +2,7 @@ gml_pragma("global", "__init_global()");
 
 // Base level info
 global.levels = ds_list_create();
-global.levels_index = 1;
+global.levels_index = 0;
 
 // level 1;
 var ds_level_1 = ds_queue_create();
@@ -76,7 +76,7 @@ ds_queue_enqueue(item_level_1, obj_firework);
 ds_queue_enqueue(item_level_1, obj_firework);
 ds_queue_enqueue(item_level_1, obj_firework);
 ds_queue_enqueue(item_level_1, obj_firework);
-repeat (10) ds_queue_enqueue(item_level_1, noone);
+repeat (10) ds_queue_enqueue(item_level_1, "");
 
 // level 2;
 var item_level_2 = ds_queue_create();
