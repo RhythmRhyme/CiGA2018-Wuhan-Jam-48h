@@ -5,6 +5,7 @@ if (move_x < target_length) {
 		gravity *= -1;
 		image_yscale *= -1;
 		//view_angle = -30*gravity;
+		alert = false;
 	}
 
 	//镜头角度

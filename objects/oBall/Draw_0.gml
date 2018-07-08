@@ -19,3 +19,17 @@ draw_sprite_ext(
 	c_white,
 	1
 )
+
+if (room_get_name(room) == "room0" && alert) {
+	draw_sprite_ext(
+		sprBall,
+		-1,
+		camera_get_view_x(view_camera[0]) + 200,
+		camera_get_view_y(view_camera[0]) + 200,
+		1,
+		1,
+		0,
+		c_white,
+		1
+	);
+}

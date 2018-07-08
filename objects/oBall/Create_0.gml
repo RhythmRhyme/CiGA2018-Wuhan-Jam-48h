@@ -34,3 +34,6 @@ item_created = true;
 hspd_seed = 0;
 
 fadeInstace = noone;
+
+// Space Alert
+alert = true;
