@@ -79,6 +79,22 @@
             }
         },
         {
+            "Key": "089bc764-4662-481d-95f6-2f5205ce6b57",
+            "Value": {
+                "id": "854e82c0-91bc-4f73-a92f-511c226f23d0",
+                "resourcePath": "objects\\oColliderButtomTinyHole_glass\\oColliderButtomTinyHole_glass.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "09a68835-1db8-4e3a-a957-febc7f0fa421",
+            "Value": {
+                "id": "d293bbed-fdfd-4d7f-af38-a32bf6371c44",
+                "resourcePath": "objects\\oColliderNoGlass_front\\oColliderNoGlass_front.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0dea84e2-30d4-4eca-96e9-9a700cb89b49",
             "Value": {
                 "id": "02904026-e075-465a-8486-b2501e081a7c",
@@ -87,11 +103,27 @@
             }
         },
         {
-            "Key": "163dca8d-161d-4831-a8ec-07dd8323c956",
+            "Key": "12591e30-030a-4d72-b97d-fbc8e65a3c19",
             "Value": {
-                "id": "6f4f2162-5bd1-4ff7-88a5-2e4ca5ef0968",
-                "resourcePath": "sprites\\sprColliderFullGlass\\sprColliderFullGlass.yy",
-                "resourceType": "GMSprite"
+                "id": "575b5cff-e3b9-4dfb-83a0-fa9d35387150",
+                "resourcePath": "objects\\oColliderBottomBigHole\\oColliderBottomBigHole.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "15971727-3731-4ce2-bd4d-c5c8b5ad150f",
+            "Value": {
+                "id": "7e73a952-007d-4dd0-a17e-411c218d28ee",
+                "resourcePath": "objects\\ooColliderTopTinyHole_front\\ooColliderTopTinyHole_front.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "17fcc2b6-a8a8-4581-be5f-94c9d54f162e",
+            "Value": {
+                "id": "38b71104-56f0-48f6-954b-9f76ed7f2cad",
+                "resourcePath": "objects\\oColliderTopTinyHole_glass\\oColliderTopTinyHole_glass.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -100,6 +132,14 @@
                 "id": "e667efac-36df-41bf-b299-f12eecd349ac",
                 "resourcePath": "scripts\\collision_normal\\collision_normal.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "1c44ccfe-b300-4335-8002-394b4ad6706e",
+            "Value": {
+                "id": "78e17100-2bc5-4de2-8acb-79e5b65d68c4",
+                "resourcePath": "objects\\oColliderBottomBigHole_back\\oColliderBottomBigHole_back.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -151,6 +191,22 @@
             }
         },
         {
+            "Key": "2faf240e-f720-4c53-af0c-809aeb968047",
+            "Value": {
+                "id": "29ce11eb-2e9b-48f5-9507-1ec661915a5b",
+                "resourcePath": "objects\\oColliderTopBigHole\\oColliderTopBigHole.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "312cda21-5a90-4792-aa0b-c9f07d48be7d",
+            "Value": {
+                "id": "da0f16dd-4aa7-4f28-b012-609894770da1",
+                "resourcePath": "objects\\oColliderBottomBigHole_glass\\oColliderBottomBigHole_glass.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3c6a4caa-1409-4c41-9296-d0c979affeb1",
             "Value": {
                 "id": "f869a2fd-ae9d-4633-8efe-7d16143cd7ec",
@@ -159,11 +215,35 @@
             }
         },
         {
+            "Key": "42d74fac-dd6a-4ed4-b130-c981838f219d",
+            "Value": {
+                "id": "11563571-33f0-4406-943e-554341237e88",
+                "resourcePath": "objects\\oColliderTopBigHole_back\\oColliderTopBigHole_back.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "446b1e41-9aba-4f73-a6d6-28472719a775",
+            "Value": {
+                "id": "5d914647-9fdd-45a9-8662-5faed2514cb5",
+                "resourcePath": "views\\446b1e41-9aba-4f73-a6d6-28472719a775.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "46766415-2fac-47e4-b9b9-554cbd380038",
             "Value": {
                 "id": "6284b31b-f8aa-4a2a-b338-d0a13a518e50",
                 "resourcePath": "views\\46766415-2fac-47e4-b9b9-554cbd380038.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "49bcff6e-0645-4eba-8a3f-fc651558ac05",
+            "Value": {
+                "id": "789e7476-7f2e-4977-843f-21c57569fd54",
+                "resourcePath": "objects\\oColliderNoGlass_glass\\oColliderNoGlass_glass.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -196,6 +276,22 @@
                 "id": "9671c509-002c-468a-b659-7542115fd671",
                 "resourcePath": "views\\64ab1ab4-2b2f-4a9e-8e82-8b834ad51e1d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6b3b4ed4-56c0-4a6e-b900-2841620cade3",
+            "Value": {
+                "id": "8c722d2f-b416-4e1b-9e53-be30ea343b6e",
+                "resourcePath": "objects\\oColliderTopTinyHole\\oColliderTopTinyHole.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6d18b1dc-4255-40b6-823a-c77830044c73",
+            "Value": {
+                "id": "e9e7d6c6-ea9a-45a9-899b-c0070e7e2ca7",
+                "resourcePath": "objects\\oColliderTopBigHole_glass\\oColliderTopBigHole_glass.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -252,6 +348,14 @@
                 "id": "67cacebd-491a-4e63-8e23-8a4354b66e2f",
                 "resourcePath": "sprites\\sprColliderTopBigHole\\sprColliderTopBigHole.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "90d68816-25a1-48d5-996b-5c6b0f4d75f2",
+            "Value": {
+                "id": "25a11124-1311-402e-a612-b0dad9a5cb91",
+                "resourcePath": "objects\\oColliderTopBigHole_front\\oColliderTopBigHole_front.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -319,6 +423,14 @@
             }
         },
         {
+            "Key": "a2890691-66ba-4b99-b843-839a00535c57",
+            "Value": {
+                "id": "6ef66f76-ed22-4067-bfb6-05f95ab84aa9",
+                "resourcePath": "objects\\oColliderButtomTinyHole\\oColliderButtomTinyHole.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a661fbc8-de8e-49b2-b906-0dc4c514d611",
             "Value": {
                 "id": "0cca643f-d54b-444f-9bed-dacedc914e0b",
@@ -332,6 +444,14 @@
                 "id": "8c52e3b8-6994-405f-b73c-51b8484a0945",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "b0f4c831-dda1-4dae-b03a-01460b7582af",
+            "Value": {
+                "id": "49ab2b51-1d74-4e12-a7b2-3e8968464fac",
+                "resourcePath": "objects\\oColliderBottomBigHole_front\\oColliderBottomBigHole_front.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -375,6 +495,14 @@
             }
         },
         {
+            "Key": "c319d811-ae16-4fbc-aa0c-6b2028947957",
+            "Value": {
+                "id": "2e9c27b3-a3f7-4f7b-87bc-891260f6d7cd",
+                "resourcePath": "objects\\oColliderNoGlass_back\\oColliderNoGlass_back.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c3b777e5-9889-4349-9882-2cfbd4354bdf",
             "Value": {
                 "id": "8e680b3c-00ea-4ee7-9853-cfdc8bd4e7e6",
@@ -388,6 +516,14 @@
                 "id": "eef6281f-9136-4e6d-98f3-661747488307",
                 "resourcePath": "views\\c4633ee2-c2d9-41ac-9504-8071f2ac6807.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c533c502-7250-43e5-8480-1eab394891b4",
+            "Value": {
+                "id": "c91abd02-9d5e-45d6-bb11-818320b4457c",
+                "resourcePath": "objects\\oColliderButtomTinyHole_front\\oColliderButtomTinyHole_front.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -455,11 +591,27 @@
             }
         },
         {
+            "Key": "e6ddfea9-114e-449e-a71b-fe9a5d117816",
+            "Value": {
+                "id": "b6f606b1-e8e8-4aed-9f35-80a442365a8c",
+                "resourcePath": "objects\\oColliderTopTinyHole_back\\oColliderTopTinyHole_back.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "eb3c18ad-01e9-4aae-ad7e-cdae8b324985",
             "Value": {
                 "id": "22a00b4b-7bca-43a4-8e28-92b9c97ecfee",
                 "resourcePath": "scripts\\@object_get_depth\\object_get_depth.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "ec3eef49-320d-497b-b721-17a142f110c3",
+            "Value": {
+                "id": "bc54252a-0804-4fc6-85ab-e19e6e9d1af2",
+                "resourcePath": "objects\\oColliderNoGlass\\oColliderNoGlass.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -524,6 +676,14 @@
                 "id": "8427bd3c-f672-40b0-a3e7-898aff3c5cc0",
                 "resourcePath": "sprites\\sprColliderNoGlass\\sprColliderNoGlass.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fb558661-45aa-452b-990e-612fea1156aa",
+            "Value": {
+                "id": "428dec14-3446-414d-ac21-514adb940f5b",
+                "resourcePath": "objects\\oColliderButtomTinyHole_back\\oColliderButtomTinyHole_back.yy",
+                "resourceType": "GMObject"
             }
         }
     ],
