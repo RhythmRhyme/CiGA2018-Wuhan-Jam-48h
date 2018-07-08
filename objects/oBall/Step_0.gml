@@ -33,8 +33,9 @@ if (move_x < target_length) {
 } else {
 	if (!room_change_obj) {
 		room_change_obj = instance_create_depth(x, y, -10, oRoomChange);
+		instance_create_depth(x, y, -15, oFade);
+		instance_deactivate_object(self);
 	}
-	instance_deactivate_object(self);
 }
 
 //show_debug_message(prizeRand([[5, "Mac"],[15, "iPhone"],[30, "iPad"],[50, "iWatch"]]));

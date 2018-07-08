@@ -26,9 +26,11 @@ image_yscale = 2;
 // 目标长度
 origin_x = x;
 move_x = 0;
-target_length = 61 * 1000;
+target_length = 1 * 1000;
 room_change_obj = noone;
 
 // 难度设置
 item_created = true;
 hspd_seed = 0;
+
+fadeInstace = noone;
