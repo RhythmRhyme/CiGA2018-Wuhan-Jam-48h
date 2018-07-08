@@ -3,6 +3,7 @@
 if (move_x < target_length) {
 	if (keyboard_check_pressed(vk_space)) {
 		gravity *= -1;
+		image_yscale *= -1;
 		//view_angle = -30*gravity;
 	}
 
