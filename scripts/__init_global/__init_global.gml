@@ -105,10 +105,108 @@ ds_queue_enqueue(ds_level_3, oCollider);
 ds_queue_enqueue(ds_level_3, oCollider);
 
 
+// level 4;
+var ds_level_4 = ds_queue_create();
+repeat (5) ds_queue_enqueue(ds_level_4, oCollider);
+ds_queue_enqueue(ds_level_4, oColliderButtomTinyHole);
+ds_queue_enqueue(ds_level_4, oCollider);
+ds_queue_enqueue(ds_level_4, oColliderTopTinyHole);
+ds_queue_enqueue(ds_level_4, oCollider);
+ds_queue_enqueue(ds_level_4, oColliderButtomTinyHole);
+
+ds_queue_enqueue(ds_level_4, oCollider);
+ds_queue_enqueue(ds_level_4, oColliderTopTinyHole);
+ds_queue_enqueue(ds_level_4, oColliderButtomTinyHole);
+ds_queue_enqueue(ds_level_4, oColliderTopTinyHole);
+ds_queue_enqueue(ds_level_4, oCollider);
+ds_queue_enqueue(ds_level_4, oColliderButtomTinyHole);
+ds_queue_enqueue(ds_level_4, oColliderTopTinyHole);
+ds_queue_enqueue(ds_level_4, oColliderTopTinyHole);
+ds_queue_enqueue(ds_level_4, oColliderButtomTinyHole);
+ds_queue_enqueue(ds_level_4, oColliderButtomTinyHole);
+
+ds_queue_enqueue(ds_level_4, oColliderTopTinyHole);
+ds_queue_enqueue(ds_level_4, oColliderTopBigHole);
+ds_queue_enqueue(ds_level_4, oCollider);
+ds_queue_enqueue(ds_level_4, oColliderButtomTinyHole);
+ds_queue_enqueue(ds_level_4, oColliderBottomBigHole);
+ds_queue_enqueue(ds_level_4, oCollider);
+ds_queue_enqueue(ds_level_4, oColliderTopTinyHole);
+ds_queue_enqueue(ds_level_4, oColliderTopBigHole);
+ds_queue_enqueue(ds_level_4, oCollider);
+ds_queue_enqueue(ds_level_4, oCollider);
+
+
+// level 5;
+var ds_level_5 = ds_queue_create();
+ds_queue_enqueue(ds_level_5, oColliderButtomTinyHole);
+ds_queue_enqueue(ds_level_5, oCollider);
+ds_queue_enqueue(ds_level_5, oColliderTopTinyHole);
+ds_queue_enqueue(ds_level_5, oCollider);
+ds_queue_enqueue(ds_level_5, oColliderButtomTinyHole);
+ds_queue_enqueue(ds_level_5, oColliderButtomTinyHole);
+ds_queue_enqueue(ds_level_5, oCollider);
+ds_queue_enqueue(ds_level_5, oColliderTopTinyHole);
+ds_queue_enqueue(ds_level_5, oCollider);
+ds_queue_enqueue(ds_level_5, oColliderButtomTinyHole);
+
+ds_queue_enqueue(ds_level_5, oColliderTopTinyHole);
+ds_queue_enqueue(ds_level_5, oColliderBottomBigHole);
+ds_queue_enqueue(ds_level_5, oCollider);
+ds_queue_enqueue(ds_level_5, oColliderButtomTinyHole);
+ds_queue_enqueue(ds_level_5, oColliderTopBigHole);
+ds_queue_enqueue(ds_level_5, oCollider);
+ds_queue_enqueue(ds_level_5, oColliderTopTinyHole);
+ds_queue_enqueue(ds_level_5, oColliderBottomBigHole);
+ds_queue_enqueue(ds_level_5, oCollider);
+ds_queue_enqueue(ds_level_5, oColliderButtomTinyHole);
+
+ds_queue_enqueue(ds_level_5, oColliderTopTinyHole);
+ds_queue_enqueue(ds_level_5, oColliderTopBigHole);
+ds_queue_enqueue(ds_level_5, oColliderTopBigHole);
+ds_queue_enqueue(ds_level_5, oColliderButtomTinyHole);
+ds_queue_enqueue(ds_level_5, oColliderBottomBigHole);
+ds_queue_enqueue(ds_level_5, oColliderTopBigHole);
+ds_queue_enqueue(ds_level_5, oColliderTopTinyHole);
+ds_queue_enqueue(ds_level_5, oColliderTopBigHole);
+ds_queue_enqueue(ds_level_5, oColliderBottomBigHole);
+ds_queue_enqueue(ds_level_5, oCollider);
+
+
+
+
+// level 6;
+var ds_level_6 = ds_queue_create();
+ds_queue_enqueue(ds_level_6, oColliderNoGlass);
+ds_queue_enqueue(ds_level_6, oColliderNoGlass);
+ds_queue_enqueue(ds_level_6, oCollider);
+ds_queue_enqueue(ds_level_6, oColliderTopTinyHole);
+ds_queue_enqueue(ds_level_6, oColliderButtomTinyHole);
+ds_queue_enqueue(ds_level_6, oColliderButtomTinyHole);
+ds_queue_enqueue(ds_level_6, oCollider);
+ds_queue_enqueue(ds_level_6, oColliderTopTinyHole);
+ds_queue_enqueue(ds_level_6, oCollider);
+ds_queue_enqueue(ds_level_6, oColliderButtomTinyHole);
+
+
+repeat (5) ds_queue_enqueue(ds_level_6, oColliderNoGlass);
+ds_queue_enqueue(ds_level_6, oCollider);
+ds_queue_enqueue(ds_level_6, oColliderTopTinyHole);
+ds_queue_enqueue(ds_level_6, oColliderBottomBigHole);
+ds_queue_enqueue(ds_level_6, oCollider);
+ds_queue_enqueue(ds_level_6, oColliderButtomTinyHole);
+
+repeat (9) ds_queue_enqueue(ds_level_6, oColliderNoGlass);
+ds_queue_enqueue(ds_level_6, oCollider);
+
+
 
 ds_list_add(global.levels, ds_level_1);
 ds_list_add(global.levels, ds_level_2);
 ds_list_add(global.levels, ds_level_3);
+ds_list_add(global.levels, ds_level_4);
+ds_list_add(global.levels, ds_level_5);
+ds_list_add(global.levels, ds_level_6);
 
 
 // item create
@@ -158,10 +256,117 @@ ds_queue_enqueue(item_level_3, obj_mouse_trap);
 ds_queue_enqueue(item_level_3, noone);
 ds_queue_enqueue(item_level_3, obj_mouse_trap);
 
-//ds_queue_enqueue(item_level_3, noone);
-//ds_queue_enqueue(item_level_3, obj_firework);
-//ds_queue_enqueue(item_level_3, obj_mouse_trap);
+// level 4;
+var item_level_4 = ds_queue_create();
+ds_queue_enqueue(item_level_4, noone);
+ds_queue_enqueue(item_level_4, obj_firework);
+ds_queue_enqueue(item_level_4, noone);
+ds_queue_enqueue(item_level_4, obj_firework);
+ds_queue_enqueue(item_level_4, noone);
+ds_queue_enqueue(item_level_4, noone);
+ds_queue_enqueue(item_level_4, noone);
+ds_queue_enqueue(item_level_4, obj_firework);
+ds_queue_enqueue(item_level_4, noone);
+ds_queue_enqueue(item_level_4, noone);
+
+ds_queue_enqueue(item_level_4, noone);
+ds_queue_enqueue(item_level_4, obj_firework);
+ds_queue_enqueue(item_level_4, noone);
+ds_queue_enqueue(item_level_4, noone);
+ds_queue_enqueue(item_level_4, obj_firework);
+ds_queue_enqueue(item_level_4, noone);
+ds_queue_enqueue(item_level_4, noone);
+ds_queue_enqueue(item_level_4, obj_firework);
+ds_queue_enqueue(item_level_4, noone);
+ds_queue_enqueue(item_level_4, obj_firework);
+
+ds_queue_enqueue(item_level_4, noone);
+ds_queue_enqueue(item_level_4, noone);
+ds_queue_enqueue(item_level_4, noone);
+ds_queue_enqueue(item_level_4, noone);
+ds_queue_enqueue(item_level_4, obj_firework);
+ds_queue_enqueue(item_level_4, obj_firework);
+ds_queue_enqueue(item_level_4, noone);
+ds_queue_enqueue(item_level_4, obj_firework);
+ds_queue_enqueue(item_level_4, noone);
+ds_queue_enqueue(item_level_4, obj_firework);
+
+
+// level 5;
+var item_level_5 = ds_queue_create();
+ds_queue_enqueue(item_level_5, noone);
+ds_queue_enqueue(item_level_5, obj_mouse_trap);
+ds_queue_enqueue(item_level_5, noone);
+ds_queue_enqueue(item_level_5, obj_firework);
+ds_queue_enqueue(item_level_5, noone);
+ds_queue_enqueue(item_level_5, noone);
+ds_queue_enqueue(item_level_5, obj_mouse_trap);
+ds_queue_enqueue(item_level_5, obj_firework);
+ds_queue_enqueue(item_level_5, noone);
+ds_queue_enqueue(item_level_5, obj_mouse_trap);
+
+ds_queue_enqueue(item_level_5, obj_firework);
+ds_queue_enqueue(item_level_5, obj_firework);
+ds_queue_enqueue(item_level_5, obj_mouse_trap);
+ds_queue_enqueue(item_level_5, noone);
+ds_queue_enqueue(item_level_5, obj_firework);
+ds_queue_enqueue(item_level_5, noone);
+ds_queue_enqueue(item_level_5, obj_mouse_trap);
+ds_queue_enqueue(item_level_5, obj_firework);
+ds_queue_enqueue(item_level_5, noone);
+ds_queue_enqueue(item_level_5, obj_firework);
+
+ds_queue_enqueue(item_level_5, obj_firework);
+ds_queue_enqueue(item_level_5, obj_firework);
+ds_queue_enqueue(item_level_5, obj_mouse_trap);
+ds_queue_enqueue(item_level_5, noone);
+ds_queue_enqueue(item_level_5, obj_firework);
+ds_queue_enqueue(item_level_5, obj_firework);
+ds_queue_enqueue(item_level_5, noone);
+ds_queue_enqueue(item_level_5, obj_firework);
+ds_queue_enqueue(item_level_5, noone);
+ds_queue_enqueue(item_level_5, obj_firework);
+
+
+// level 6;
+var item_level_6 = ds_queue_create();
+ds_queue_enqueue(item_level_6, noone);
+ds_queue_enqueue(item_level_6, obj_mouse_trap);
+ds_queue_enqueue(item_level_6, noone);
+ds_queue_enqueue(item_level_6, obj_firework);
+ds_queue_enqueue(item_level_6, noone);
+ds_queue_enqueue(item_level_6, noone);
+ds_queue_enqueue(item_level_6, obj_mouse_trap);
+ds_queue_enqueue(item_level_6, obj_firework);
+ds_queue_enqueue(item_level_6, noone);
+ds_queue_enqueue(item_level_6, obj_mouse_trap);
+
+ds_queue_enqueue(item_level_6, obj_firework);
+ds_queue_enqueue(item_level_6, noone);
+ds_queue_enqueue(item_level_6, obj_mouse_trap);
+ds_queue_enqueue(item_level_6, obj_firework);
+ds_queue_enqueue(item_level_6, noone);
+ds_queue_enqueue(item_level_6, obj_firework);
+ds_queue_enqueue(item_level_6, obj_firework);
+ds_queue_enqueue(item_level_6, obj_firework);
+ds_queue_enqueue(item_level_6, obj_mouse_trap);
+ds_queue_enqueue(item_level_6, noone);
+
+ds_queue_enqueue(item_level_6, obj_firework);
+ds_queue_enqueue(item_level_6, obj_firework);
+ds_queue_enqueue(item_level_6, obj_mouse_trap);
+ds_queue_enqueue(item_level_6, noone);
+ds_queue_enqueue(item_level_6, obj_firework);
+ds_queue_enqueue(item_level_6, obj_mouse_trap);
+ds_queue_enqueue(item_level_6, obj_firework);
+ds_queue_enqueue(item_level_6, obj_firework);
+ds_queue_enqueue(item_level_6, noone);
+ds_queue_enqueue(item_level_6, obj_firework);
+
 
 ds_list_add(global.item_levels, item_level_1);
 ds_list_add(global.item_levels, item_level_2);
 ds_list_add(global.item_levels, item_level_3);
+ds_list_add(global.item_levels, item_level_4);
+ds_list_add(global.item_levels, item_level_5);
+ds_list_add(global.item_levels, item_level_6);
