@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "1dfb46ba-7546-4df8-bd51-ee6781c17ac9",
+            "Value": {
+                "id": "e9ed4daf-a125-4d68-8a42-5c8e772febcb",
+                "resourcePath": "sounds\\sound_pickUp\\sound_pickUp.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "1f0938a1-2628-4762-99de-f26598c4c734",
             "Value": {
                 "id": "40c789b3-edf7-4284-994e-9c654478323c",
@@ -916,6 +924,14 @@
                 "id": "aed56ab0-9187-405d-a038-7b765643261b",
                 "resourcePath": "views\\f00dc8f7-4f74-4acd-b8ad-c2467501601f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f0424fc1-5ba4-4ff4-afea-c8ab7a8b0c82",
+            "Value": {
+                "id": "6d0875f6-c785-4a19-8fc9-281432590d72",
+                "resourcePath": "sounds\\sound_tongguan\\sound_tongguan.yy",
+                "resourceType": "GMSound"
             }
         },
         {
