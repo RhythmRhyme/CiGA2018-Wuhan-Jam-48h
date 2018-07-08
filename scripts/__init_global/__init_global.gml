@@ -6,7 +6,7 @@ global.levels_index = 0;
 
 // level 1;
 var ds_level_1 = ds_queue_create();
-repeat (15) ds_queue_enqueue(ds_level_1, oCollider);
+repeat (15) ds_queue_enqueue(ds_level_1, oColliderButtomTinyHole);
 ds_queue_enqueue(ds_level_1, oColliderButtomTinyHole);
 ds_queue_enqueue(ds_level_1, oColliderTopTinyHole);
 ds_queue_enqueue(ds_level_1, oColliderTopTinyHole);

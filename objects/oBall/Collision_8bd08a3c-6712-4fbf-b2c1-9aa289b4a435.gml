@@ -9,7 +9,7 @@
     cy = y;
     
     // Find surface normal
-    var n = collision_normal(cx, cy, oCollider, 63.5, 1);
+    var n = collision_normal(cx, cy, oColliderFather, 63.5, 1);
     if (n == -1) show_debug_message("ERROR: "+string(time)+"  "+string(direction));
 	
     nx = lengthdir_x(1, n);

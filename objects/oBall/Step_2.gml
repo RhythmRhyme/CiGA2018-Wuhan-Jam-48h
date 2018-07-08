@@ -17,7 +17,8 @@ if(vX >= roomWidth){
 			var quene = ds_list_find_index(global.levels, global.levels_index);
 			var map = ds_queue_dequeue(quene);
 			
-			instance_create(x+oCollider.sprite_width,y, map);
+			instance_create(x+sprite_get_width(sprCollider0) * 2,y, map);
+
 			show_debug_message("instance_create oCollider");
 			show_debug_message(map);
 		}
