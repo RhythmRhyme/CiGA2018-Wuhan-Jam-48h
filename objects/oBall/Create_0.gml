@@ -26,7 +26,7 @@ image_yscale = 2;
 // 目标长度
 origin_x = x;
 move_x = 0;
-target_length = 1 * 1000;
+target_length = 31 * 1000;
 room_change_obj = noone;
 
 // 难度设置
