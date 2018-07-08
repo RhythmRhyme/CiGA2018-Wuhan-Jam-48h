@@ -41,6 +41,9 @@ if(vX >= roomWidth){
 	with(obj_firework) {
 		x-=roomWidth;
 	}
+	with(obj_mouse_trap) {
+		x-=roomWidth;
+	}
 }
 
 
