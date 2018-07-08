@@ -28,5 +28,8 @@
     move_outside_solid(n, speed);
     direction = point_direction(0, 0, rx, ry);
     speed *= 0.65;
+	
+	sprite_index = sprBall_collision;
+	alarm[2] = room_speed/2;
 }
 

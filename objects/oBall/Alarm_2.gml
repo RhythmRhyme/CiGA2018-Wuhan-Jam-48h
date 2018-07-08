@@ -1,5 +1,3 @@
 /// @description Insert description here
 // You can write your code in this editor
-speed /= 2;
-alarm[1] = room_speed * 2;
-sprite_index = sprBall_collision;
+sprite_index = sprBall;
