@@ -567,6 +567,14 @@
             }
         },
         {
+            "Key": "90de9fbf-2dd6-4382-ab33-b2a1d2c0f112",
+            "Value": {
+                "id": "3a9a0125-a9cc-494b-b089-bba8b6744213",
+                "resourcePath": "sounds\\sound_zhuang\\sound_zhuang.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "91e2b80a-4519-4610-8930-a5e61c96886c",
             "Value": {
                 "id": "eff9a316-bb7f-4031-a4b6-f084e2d9179a",
