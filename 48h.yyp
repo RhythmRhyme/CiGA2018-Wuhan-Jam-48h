@@ -194,7 +194,7 @@
             "Key": "25a12383-cf1b-4b6d-b298-cf03871da56b",
             "Value": {
                 "id": "81cf6dd3-1c90-4558-bdf0-72923a0c79ad",
-                "resourcePath": "sprites\\sprColliderButtomTinyHole_glass\\sprColliderButtomTinyHole_glass.yy",
+                "resourcePath": "sprites\\sprColliderBottomTinyHole_glass\\sprColliderBottomTinyHole_glass.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -226,7 +226,7 @@
             "Key": "29ac5777-391e-41fe-85c3-977dad83d407",
             "Value": {
                 "id": "dce8e5ae-c45b-44be-a4c8-9a0628c48036",
-                "resourcePath": "sprites\\sprColliderButtomTinyHole_back\\sprColliderButtomTinyHole_back.yy",
+                "resourcePath": "sprites\\sprColliderBottomTinyHole_back\\sprColliderBottomTinyHole_back.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -434,7 +434,7 @@
             "Key": "7aec0106-fb95-4df9-87d3-bbe1fb65d993",
             "Value": {
                 "id": "91b33adb-965d-455f-9b5b-af2169b57de5",
-                "resourcePath": "sprites\\sprColliderButtomTinyHole\\sprColliderButtomTinyHole.yy",
+                "resourcePath": "sprites\\sprColliderBottomTinyHole\\sprColliderBottomTinyHole.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -698,7 +698,7 @@
             "Key": "cea50633-45c3-4e81-80ac-82d09ebcf4e6",
             "Value": {
                 "id": "94109c77-7ce1-49e2-adf5-7839e6562229",
-                "resourcePath": "sprites\\sprColliderButtomTinyHole_front\\sprColliderButtomTinyHole_front.yy",
+                "resourcePath": "sprites\\sprColliderBottomTinyHole_front\\sprColliderBottomTinyHole_front.yy",
                 "resourceType": "GMSprite"
             }
         },

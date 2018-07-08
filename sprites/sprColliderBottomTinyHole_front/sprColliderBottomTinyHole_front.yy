@@ -2,7 +2,7 @@
     "id": "cea50633-45c3-4e81-80ac-82d09ebcf4e6",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprColliderButtomTinyHole_front",
+    "name": "sprColliderBottomTinyHole_front",
     "For3D": false,
     "HTile": false,
     "VTile": false,

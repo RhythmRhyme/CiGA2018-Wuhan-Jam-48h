@@ -5,11 +5,11 @@ bg_back = instance_create_depth(x,y,depth-1,oColliderButtomTinyHole_back);
 with(bg_back){
 	set_image_scale();
 }
-bg_glass = instance_create_depth(x,y,depth-2,oColliderButtomTinyHole_front);
+bg_glass = instance_create_depth(x,y,depth-2,oColliderButtomTinyHole_glass);
 with(bg_glass){
 	set_image_scale();
 }
-bg_front = instance_create_depth(x,y,oBall.depth-1,oColliderButtomTinyHole_glass);
+bg_front = instance_create_depth(x,y,oBall.depth-1,oColliderButtomTinyHole_front);
 with(bg_front){
 	set_image_scale();
 }
