@@ -231,6 +231,14 @@
             }
         },
         {
+            "Key": "3aadc371-ded4-47a5-80b0-506b2828a262",
+            "Value": {
+                "id": "a7e2c275-f6d1-45b0-befc-476c387f2970",
+                "resourcePath": "sprites\\sprColliderTopTinyHole_back\\sprColliderTopTinyHole_back.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3c6a4caa-1409-4c41-9296-d0c979affeb1",
             "Value": {
                 "id": "f869a2fd-ae9d-4633-8efe-7d16143cd7ec",
@@ -276,6 +284,14 @@
                 "id": "50f1afc4-0600-4db8-a656-2c76d693af4c",
                 "resourcePath": "views\\4a811ff5-3faa-4dc1-8f38-c5206a2a53c1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "53f30c8a-4e52-42a6-8752-8929ef5db561",
+            "Value": {
+                "id": "ca3bcf5a-1191-4cee-9186-c44065430456",
+                "resourcePath": "sprites\\sprColliderTopTinyHole_front\\sprColliderTopTinyHole_front.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -340,6 +356,13 @@
                 "id": "5eba730e-5d10-4982-8e6b-9065565ab0e0",
                 "resourcePath": "objects\\obj_firework\\obj_firework.yy",
                 "resourceType": "GMObject"
+            }
+        }
+            "Key": "7238a195-ac2b-41ba-a1c7-e43849316d5a",
+            "Value": {
+                "id": "6b53ab1c-e640-49cf-ae4f-08a12f65cee9",
+                "resourcePath": "sprites\\sprColliderTopTinyHole_glass\\sprColliderTopTinyHole_glass.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
