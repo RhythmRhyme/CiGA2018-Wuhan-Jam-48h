@@ -12,12 +12,16 @@ var ds_level_1 = ds_queue_create();
 //ds_queue_enqueue(ds_level_1, oColliderTopTinyHole);
 //ds_queue_enqueue(ds_level_1, oColliderButtomTinyHole);
 //ds_queue_enqueue(ds_level_1, oColliderTopTinyHole);
- ds_queue_enqueue(ds_level_1, oCollider);
-ds_queue_enqueue(ds_level_1, oColliderTopTinyHole);
 ds_queue_enqueue(ds_level_1, oColliderButtomTinyHole);
-ds_queue_enqueue(ds_level_1, oColliderTopBigHole);
-ds_queue_enqueue(ds_level_1, oColliderBottomBigHole);
-ds_queue_enqueue(ds_level_1, oColliderNoGlass);
+ds_queue_enqueue(ds_level_1, oColliderButtomTinyHole);
+ds_queue_enqueue(ds_level_1, oColliderButtomTinyHole);
+ds_queue_enqueue(ds_level_1, oColliderButtomTinyHole);
+ds_queue_enqueue(ds_level_1, oColliderButtomTinyHole);
+ds_queue_enqueue(ds_level_1, oColliderButtomTinyHole);
+ds_queue_enqueue(ds_level_1, oColliderButtomTinyHole);
+ds_queue_enqueue(ds_level_1, oColliderButtomTinyHole);
+ds_queue_enqueue(ds_level_1, oColliderButtomTinyHole);
+ds_queue_enqueue(ds_level_1, oColliderButtomTinyHole);
 
 
 
