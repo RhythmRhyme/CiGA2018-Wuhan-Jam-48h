@@ -31,3 +31,4 @@ room_change_obj = noone;
 
 // 难度设置
 item_created = true;
+hspd_seed = 0;

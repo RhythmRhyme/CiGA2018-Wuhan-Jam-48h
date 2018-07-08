@@ -10,7 +10,7 @@ if (move_x < target_length) {
 	//camera_angle();
 
 	//右移动
-	hspeed = clamp(hspeed + 0.5, -15, 15);
+	hspeed = clamp(hspeed + 0.5 + hspd_seed, -15 + hspd_seed, 15 + hspd_seed);
 
 	move_x += hspeed;
 	
@@ -36,5 +36,7 @@ if (move_x < target_length) {
 	}
 	instance_deactivate_object(self);
 }
+
+show_debug_message(hspd_seed);
 
 //show_debug_message(prizeRand([[5, "Mac"],[15, "iPhone"],[30, "iPad"],[50, "iWatch"]]));

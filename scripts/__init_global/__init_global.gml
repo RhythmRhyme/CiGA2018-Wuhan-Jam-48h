@@ -79,12 +79,12 @@ global.item_levels = ds_list_create();
 
 // level 1;
 var item_level_1 = ds_queue_create();
-repeat (10) ds_queue_enqueue(item_level_1, noone);
+repeat (5) ds_queue_enqueue(item_level_1, noone);
 ds_queue_enqueue(item_level_1, obj_firework);
 ds_queue_enqueue(item_level_1, obj_firework);
 ds_queue_enqueue(item_level_1, obj_firework);
 ds_queue_enqueue(item_level_1, obj_firework);
-repeat (10) ds_queue_enqueue(item_level_1, "");
+repeat (15) ds_queue_enqueue(item_level_1, "");
 
 // level 2;
 var item_level_2 = ds_queue_create();
