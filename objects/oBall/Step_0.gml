@@ -33,6 +33,8 @@ if (move_x < target_length) {
 	//		break;
 	//}
 } else {
+	//过关
+	audio_play_sound(sound_tongguan, 12, false);
 	if (!room_change_obj) {
 		room_change_obj = instance_create_depth(x, y, -10, oRoomChange);
 		instance_create_depth(x, y, -15, oFade);

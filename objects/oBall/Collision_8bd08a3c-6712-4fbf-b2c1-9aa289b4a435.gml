@@ -31,5 +31,9 @@
 	
 	sprite_index = sprBall_collision;
 	alarm[2] = room_speed/2;
+	
+	audio_play_sound(sound_zhuang, 11, false);
+	audio_play_sound(sound_zhuan, 10, false);
+	
 }
 
