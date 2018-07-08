@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "1a767b0c-616c-40b0-8613-08540e2ce47a",
+            "Value": {
+                "id": "26422d92-e281-4e8f-97e8-4517ff95a572",
+                "resourcePath": "scripts\\__init_global\\__init_global.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "1beb2132-8fca-4958-8ecd-c3935a98eae0",
             "Value": {
                 "id": "e667efac-36df-41bf-b299-f12eecd349ac",
@@ -140,6 +148,14 @@
                 "id": "78e17100-2bc5-4de2-8acb-79e5b65d68c4",
                 "resourcePath": "objects\\oColliderBottomBigHole_back\\oColliderBottomBigHole_back.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1f0938a1-2628-4762-99de-f26598c4c734",
+            "Value": {
+                "id": "40c789b3-edf7-4284-994e-9c654478323c",
+                "resourcePath": "views\\1f0938a1-2628-4762-99de-f26598c4c734.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -267,6 +283,14 @@
             "Value": {
                 "id": "d7c7acb7-73eb-4376-b81a-5f03ac235a7f",
                 "resourcePath": "objects\\oCollider_back\\oCollider_back.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "596625d5-1c18-4a31-be87-79db48113ed9",
+            "Value": {
+                "id": "562fa768-cab5-4d0d-89aa-b152d02186d3",
+                "resourcePath": "objects\\oColliderFather\\oColliderFather.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -655,6 +679,14 @@
             }
         },
         {
+            "Key": "f4be1304-96c0-449d-98a0-64f61e2bc8bf",
+            "Value": {
+                "id": "34ca3876-29ac-4969-b58a-67f2b655831e",
+                "resourcePath": "scripts\\prizeRand\\prizeRand.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "f629e822-ffa9-4079-a23d-29171bcd2cd1",
             "Value": {
                 "id": "80974aaa-d637-4bc7-8294-cae29e5c66b5",
@@ -694,7 +726,9 @@
         "eb3c18ad-01e9-4aae-ad7e-cdae8b324985",
         "f629e822-ffa9-4079-a23d-29171bcd2cd1",
         "959abbca-8ad8-4c3a-aa91-ce79be3fd478",
-        "c3b777e5-9889-4349-9882-2cfbd4354bdf"
+        "c3b777e5-9889-4349-9882-2cfbd4354bdf",
+        "f4be1304-96c0-449d-98a0-64f61e2bc8bf",
+        "1a767b0c-616c-40b0-8613-08540e2ce47a"
     ],
     "tutorial": ""
 }

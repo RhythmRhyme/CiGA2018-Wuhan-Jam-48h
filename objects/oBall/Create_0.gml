@@ -20,10 +20,13 @@
 //view_angle_speed = 0.1; 
 //camera_angle();
 
-set_image_scale();
+image_xscale = 2;
+image_yscale = 2;
 
 // 目标长度
 origin_x = x;
 move_x = 0;
-target_length = 15 * 1000;
+target_length = 19 * 1000;
 room_change_obj = noone;
+
+// 难度设置

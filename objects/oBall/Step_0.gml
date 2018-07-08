@@ -20,3 +20,4 @@ if (move_x < target_length) {
 	instance_deactivate_object(self);
 }
 
+//show_debug_message(prizeRand([[5, "Mac"],[15, "iPhone"],[30, "iPad"],[50, "iWatch"]]));

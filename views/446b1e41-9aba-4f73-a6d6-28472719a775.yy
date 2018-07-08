@@ -27,7 +27,8 @@
         "ec3eef49-320d-497b-b721-17a142f110c3",
         "c319d811-ae16-4fbc-aa0c-6b2028947957",
         "09a68835-1db8-4e3a-a957-febc7f0fa421",
-        "49bcff6e-0645-4eba-8a3f-fc651558ac05"
+        "49bcff6e-0645-4eba-8a3f-fc651558ac05",
+        "596625d5-1c18-4a31-be87-79db48113ed9"
     ],
     "filterType": "GMObject",
     "folderName": "Room Collider",
