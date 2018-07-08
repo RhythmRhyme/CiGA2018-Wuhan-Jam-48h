@@ -423,11 +423,27 @@
             }
         },
         {
+            "Key": "5f85579d-a62b-40c9-8d3c-a75c6cd0e123",
+            "Value": {
+                "id": "24c7f8ef-91a3-49c8-82f5-e90898a0e45f",
+                "resourcePath": "sounds\\sound_zhuan\\sound_zhuan.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "64ab1ab4-2b2f-4a9e-8e82-8b834ad51e1d",
             "Value": {
                 "id": "9671c509-002c-468a-b659-7542115fd671",
                 "resourcePath": "views\\64ab1ab4-2b2f-4a9e-8e82-8b834ad51e1d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "67b7d9bd-2095-4984-95bf-f01bef014e82",
+            "Value": {
+                "id": "5278e76e-f1f7-42c0-b123-757ac8cdefe8",
+                "resourcePath": "sprites\\sprSpaceKey\\sprSpaceKey.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

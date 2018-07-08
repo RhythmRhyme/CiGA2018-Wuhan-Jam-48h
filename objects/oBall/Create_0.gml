@@ -36,4 +36,4 @@ hspd_seed = 0;
 fadeInstace = noone;
 
 // Space Alert
-alert = true;
+alert = 3;
