@@ -1,6 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-speed /= 1.5;
-alarm[1] = room_speed / 10;
-instance_destroy(other);
+speed /= 3;
+alarm[1] = room_speed * 2;
 sprite_index = sprBall_collision;

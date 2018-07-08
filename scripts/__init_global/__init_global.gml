@@ -2,7 +2,7 @@ gml_pragma("global", "__init_global()");
 
 // Base level info
 global.levels = ds_list_create();
-global.levels_index = 0;
+global.levels_index = 1;
 
 // level 1;
 var ds_level_1 = ds_queue_create();
